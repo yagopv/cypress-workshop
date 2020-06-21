@@ -1,0 +1,17 @@
+{
+  "name": "cypress-workshop",
+  "version": "1.0.0",
+  "description": "Cypress Workshop",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "author": "Mobgen",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.8.0",
+    "chance": "^1.1.6"
+  },
+  "dependencies": {}
+}

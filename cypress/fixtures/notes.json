@@ -1,0 +1,23 @@
+{
+  "count": 2,
+  "rows": [
+    {
+      "id": "5eef3dc6e02f4a0017c810a5",
+      "title": "Another note",
+      "content": "More content",
+      "tags": ["another tag"],
+      "owner": "5eef3da9e02f4a0017c810a3",
+      "createdAt": "2020-06-21T11:00:22.165Z",
+      "updatedAt": "2020-06-21T11:00:46.443Z"
+    },
+    {
+      "id": "5eef3dace02f4a0017c810a4",
+      "title": "A note",
+      "content": "Content",
+      "tags": ["tag"],
+      "owner": "5eef3da9e02f4a0017c810a3",
+      "createdAt": "2020-06-21T10:59:56.560Z",
+      "updatedAt": "2020-06-21T11:00:17.217Z"
+    }
+  ]
+}

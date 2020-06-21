@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://hack-a-note.yagopv.now.sh",
+  "viewportWidth": 1200,
+  "viewportHeight": 900,
+  "env": {
+    "backendUrl": "https://hack-a-note-server.herokuapp.com"
+  }
+}
